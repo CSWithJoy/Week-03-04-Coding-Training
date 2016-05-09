@@ -1,4 +1,4 @@
-# Week-02-Coding-Training
+# Week-03-04-Coding-Training
 Homework of week 03 & 04. 22 individual problems for each member.
 
 ## Problems
